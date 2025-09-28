@@ -16,7 +16,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/负载数据分析系统.git
+git clone https://github.com/yourusername/load-data-analysis-system.git
 cd 负载数据分析系统
 ```
 
